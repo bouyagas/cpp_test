@@ -5,7 +5,7 @@
     using namespace std;
 
 	string myFun(){
-	   return  "I will be a billionnaire a by the age of 31";
+             return "Mohemed Gassama CEO of backpack is a the first african american youngest billionnaire";
 	}
 	
 	int main(){
